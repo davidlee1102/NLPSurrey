@@ -1,0 +1,13 @@
+user_input,emotion_predict
+I hate you,"""neutral"""
+I very hate you,"""neutral"""
+I liked the fastfood,"""neutral"""
+"hey, whatsupp man","""neutral"""
+now you can see me as a manager,"""approval"""
+"hi, should we need to go to hospital?","""neutral"""
+why dont you go to school,"""gratitude"""
+"I am smile at you, what the hell do you want","""desire"""
+"Thanks for gping to the effort, but i would be surprised if he read it and gave it the chance he have trump. Pleasantly surprised, though.","""approval"""
+They lead a bad defense though,"""disapproval"""
+happy easter,"""joy"""
+wish you have a good holiday with your family,"""approval"""
